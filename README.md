@@ -1,5 +1,9 @@
 # Commons API
 
+#ATTENTION !!!#
+forked from: https://github.com/wielebenwir/commons-api (here only experiments with the schema to make usability study with https://bitbucket.org/machinaeXphilip/dingsda)
+
+
 API for retrieving item information, availability and location of common good item(s), defined as a [JSON schema](http://json-schema.org/).
 
 ![](img/portal.png)
